@@ -1,5 +1,6 @@
 # Jared Chiew
 **B.S Computer Science '26 @ Arizona State University**
+GPA: 3.56 | Dean's List: Spring 2026, Fall 2023, Fall 2024, Fall 2025
 
 ## About Me
 I'm a Computer Science student at Arizona State University (3.56 GPA) with a passion for building impactful software and data-driven solutions. I enjoy working across the full stack—from mobile app development to cloud-based data engineering and AI integration.
@@ -26,8 +27,4 @@ I'm a Computer Science student at Arizona State University (3.56 GPA) with a pas
 - **RAG-Powered Resume Chatbot** – *Python, Streamlit, Gemini, FAISS, LangChain* — Deployed live on Streamlit Cloud  
 - **Personal Portfolio Website** – *HTML, CSS, JavaScript* — Hosted on GitHub Pages  
 - **COVID-19 Data Dashboard** – *D3.js, JavaScript* — Dynamic global trend visualization  
-- **Spotify Wrapped Analysis** – *R, ggplot2, plotly, dplyr* — Audio feature and genre trend analysis  
-
-## Education
-**Arizona State University** — *B.S. in Computer Science* (2023 – 2026)  
-GPA: 3.56 | Dean's List: Spring 2026, Fall 2023, Fall 2024, Fall 2025
+- **Spotify Wrapped Analysis** – *R, ggplot2, plotly, dplyr* — Audio feature and genre trend analysis
